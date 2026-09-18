@@ -1,0 +1,27 @@
+# Path in your repo: .github/workflows/metrics.yml
+name: Generate Profile Metrics (3D isometric calendar + stats)
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch: {}       # lets you also run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: HPRINCE80
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          filename: metrics.isocalendar.svg
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore: update profile metrics [skip ci]"
