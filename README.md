@@ -32,7 +32,7 @@ Full Stack Developer (MERN) | Python Automation | AI Integration
 B.Tech Computer Science @ Dr. Abdul Kalam Technical University, Lucknow (2024–2028)
 
 > prince@dev:~$ cat status.txt
-🎯 250+ DSA problems solved (Striver's SDE Sheet)
+🎯 300+ DSA problems solved (Striver's SDE Sheet)
 🚀 Shipped 3 production-ready AI-integrated full-stack apps
 🌱 Currently open to Internship opportunities
 ```
