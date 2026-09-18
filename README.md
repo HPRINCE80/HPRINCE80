@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00FF9C&center=true&vCenter=true&width=680&lines=Building+AI-powered+full-stack+apps+%F0%9F%9A%80;250%2B+DSA+problems+solved+%F0%9F%A7%A0;RESTful+APIs+%C2%B7+MERN+%C2%B7+Gemini+AI+Integration;Open+to+Internship+Opportunities+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00FF9C&center=true&vCenter=true&width=680&lines=Building+AI-powered+full-stack+apps+%F0%9F%9A%80;300%2B+DSA+problems+solved+%F0%9F%A7%A0;RESTful+APIs+%C2%B7+MERN+%C2%B7+Gemini+AI+Integration;Open+to+Internship+Opportunities+%E2%9C%A8" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=HPRINCE80&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS)](https://github.com/HPRINCE80)
 [![Followers](https://img.shields.io/github/followers/HPRINCE80?style=for-the-badge&color=00FF9C&labelColor=0F2027)](https://github.com/HPRINCE80?tab=followers)
