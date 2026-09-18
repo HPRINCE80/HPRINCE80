@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=900&color=00FF00&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Your+Name;Full+Stack+Developer;Building+cool+stuff+with+code" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=900&color=00FF00&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Prince+Yaduvanshi;Full+Stack+Developer;Building+cool+stuff+with+code" alt="typing banner" />
 
 </div>
 
