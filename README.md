@@ -21,7 +21,7 @@
 ### 🖥️ whoami
 
 ```bash
-> prince@dev:~$ whoami
+> Prince
 Full Stack Developer (MERN) | Python Automation | AI Integration
 
 > prince@dev:~$ cat education.txt
