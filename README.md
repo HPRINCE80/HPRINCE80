@@ -182,7 +182,7 @@ Highlights
   <a href="mailto:princeyaduvanshi226@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://wa.me/918057160928">
+  <a href="https://wa.me/919410836558">
     <img src="https://img.shields.io/badge/WhatsApp-10B981?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
