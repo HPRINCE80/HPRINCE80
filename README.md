@@ -1,14 +1,14 @@
-<!-- ===== Dark Header ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161b22,100:000000&height=220&section=header&text=Prince%20Yaduvanshi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20(MERN)%20%7C%20AI%20Integration%20%7C%20Backend%20Developer&descAlignY=55&descSize=17&descColor=CCCCCC" />
+<!-- ===== Dark Header with Light Blue/Cyan Glow ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:3A7BD5,100:0D1117&height=220&section=header&text=Prince%20Yaduvanshi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20(MERN)%20%7C%20AI%20Integration%20%7C%20Backend%20Developer&descAlignY=55&descSize=17&descColor=E0F7FA" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=680&lines=Building+AI-powered+full-stack+apps;300%2B+DSA+problems+solved;RESTful+APIs+%C2%B7+MERN+%C2%B7+Gemini+AI+Integration;Open+to+Internship+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+AI-powered+full-stack+apps;300%2B+DSA+problems+solved;RESTful+APIs+%C2%B7+MERN+%C2%B7+Gemini+AI+Integration;Open+to+Internship+Opportunities" />
   <br/><br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HPRINCE80)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](#)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-yaduvanshi-a99b71354/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HPRINCE80)
+  [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princeyaduvanshi226@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=38BDF8)](https://hprince80.github.io/Portfolio/#home)
 </div>
 
 <br/>
@@ -16,15 +16,20 @@
 ## 🖥️ About Me
 
 > **Prince Yaduvanshi**  
-> *Full Stack Developer (MERN) | Python Automation | AI Integration*
+> *Full Stack Developer (MERN) | Python Automation | AI Integration | Backend Developer*  
+> 📍 Noida, UP, India
+
+Full Stack Developer skilled in the MERN stack, RESTful API design, and AI integration, with hands-on experience building and deploying production-ready applications. Comfortable across the full project lifecycle from backend API architecture to responsive frontend UI. Strong problem-solving foundation with 300+ DSA problems solved from Striver's SDE Sheet.
 
 🎓 **Education:**  
-B.Tech Computer Science @ Dr. Abdul Kalam Technical University, Lucknow *(2024–2028)*
+- **B.Tech in Computer Science** @ Dr. Abdul Kalam Technical University, Lucknow *(2024–2028)*
 
 🏆 **Achievements & Highlights:**  
-- 🎯 **300+ DSA problems solved** (Striver's A2Z Sheet)
+- 🎯 **300+ DSA problems solved** (Striver's SDE Sheet covering Arrays, DP, Trees, Graphs)
 - 🚀 Shipped **4+ production-ready** AI-integrated full-stack apps
-- 🌱 Currently open to **Internship opportunities**
+- 👑 **Won Mr. Fresher Award** at ANA College of Engineering and Management (2024)
+- 🌱 Active GitHub contributor with 10+ repositories showcasing personal & academic projects
+-💼 Currently seeking **Internship opportunities**
 
 ---
 
@@ -34,10 +39,10 @@ B.Tech Computer Science @ Dr. Abdul Kalam Technical University, Lucknow *(2024�
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-025E8D?style=flat-square&logo=fastapi&logoColor=white) |
-| **AI, Tools & DevOps** | ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google-gemini&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) ![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-1E1E1E?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-025E8D?style=flat-square&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **AI, APIs & Tools** | ![Google Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google-gemini&logoColor=white) ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 </div>
 
@@ -49,64 +54,71 @@ B.Tech Computer Science @ Dr. Abdul Kalam Technical University, Lucknow *(2024�
 <tr>
 <td width="50%" valign="top">
 
-### 📄 AI Resume Interview App
-Upload resume + JD, get AI-generated interview analysis via Gemini API. Google OAuth + JWT auth, Dockerized.
+### 📄 AI Resume Interview
+Upload resume + job description to receive AI-generated interview analysis. Implemented secure auth (JWT, OAuth) & PDF parsing with Multer. Dockerized setup.
 
 <br/>
 
-`React 19` `Node.js` `MongoDB` `Gemini API` `Docker`
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS` `Gemini API` `Docker` `Google OAuth`
 </td>
 <td width="50%" valign="top">
 
 ### 💻 AI Code Reviewer
-IDE-like split-panel reviewer on Monaco Editor, powered by Gemini 2.5 Flash acting as a Senior Code Reviewer. Clean MVC backend.
+Full-stack split-panel reviewer using Monaco Editor (VS Code engine). Powered by Gemini 2.5 Flash acting as a Senior Code Reviewer with rich Markdown output.
 
 <br/>
 
-`React` `Monaco Editor` `Express.js` `Gemini 2.5 Flash`
+`React` `Monaco Editor` `Node.js` `Express.js` `Gemini 2.5 Flash` `MVC`
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
 ### 📝 Real-time Collaborative Editor
-Multi-user live code editor with instant sync via Socket.io.
+Multi-user live code editor with instant synchronization across connected clients using Socket.io WebSocket architecture.
 
 <br/><br/>
 
-`React` `Node.js` `Socket.io` `Docker`
+`React.js` `Node.js` `Express.js` `Socket.io` `Docker`
 </td>
 <td width="50%" valign="top">
 
-### 💼 Job Portal Application
-Multi-role portal for recruiters & candidates. Voice search via Web Speech API, 15+ REST APIs, role-based JWT auth.
+### 🎓 SBA Smart Classes
+Full-stack online learning platform (MERN) enabling teachers to create courses and students to enroll with secure enrollment-gated video access & role-based JWT control.
 
 <br/>
 
-`React` `Node.js` `Express` `MongoDB` `JWT`
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `JWT`
 </td>
 </tr>
 </table>
 
 ---
 
+## 📜 Certifications
+
+- 💼 **Tata - GenAI Powered Data Analytics Job Simulation** *(Forage - 08/2026)*
+- 🎨 **LinkedIn Content and Creative Design Certification** *(LinkedIn)*
+
+---
+
 ## 🌱 Currently Learning / Roadmap
 
 - [ ] 🏗️ **Advanced System Design** fundamentals
-- [ ] ⚡ **Next.js** (App Router + Server Actions)
-- [ ] 🤖 **Deepening AI/LLM integration patterns** (RAG, AI agents)
-- [ ] 🌐 **Contributing to open-source projects**
+- [ ] ⚡ **Next.js** (App Router + Server Actions)[cite: 1]
+- [ ] 🤖 **Deepening AI/LLM integration patterns** (RAG, AI agents)[cite: 1]
+- [ ] 🌐 **Contributing to open-source projects**[cite: 1]
 
 ---
 
 ## 📊 GitHub Stats & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HPRINCE80&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&border_radius=10" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HPRINCE80&theme=dark&hide_border=true&background=0D1117&fire=58a6ff&ring=58a6ff&currStreakLabel=58a6ff&border_radius=10" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HPRINCE80&show_icons=true&theme=cyan&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=38BDF8&icon_color=38BDF8&border_radius=10" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HPRINCE80&theme=dark&hide_border=true&background=0D1117&fire=38BDF8&ring=38BDF8&currStreakLabel=38BDF8&border_radius=10" height="165" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HPRINCE80&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff&border_radius=10" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=HPRINCE80&theme=darkhub&no-frame=true&row=1&column=4" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HPRINCE80&layout=compact&theme=cyan&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=38BDF8&border_radius=10" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HPRINCE80&theme=flat&no-frame=true&row=1&column=4" height="165" />
 </div>
 
 ---
@@ -114,7 +126,7 @@ Multi-role portal for recruiters & candidates. Voice search via Web Speech API, 
 ## 📈 Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HPRINCE80&theme=react-dark&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HPRINCE80&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff" width="95%" />
   
   <br/><br/>
   
@@ -125,5 +137,5 @@ Multi-role portal for recruiters & candidates. Voice search via Web Speech API, 
 
 ---
 
-<!-- ===== Dark Footer ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:000000,100:161b22&height=120&section=footer" />
+<!-- ===== Dark Footer with Matching Cyan Accent ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3A7BD5,100:00D2FF&height=120&section=footer" />
