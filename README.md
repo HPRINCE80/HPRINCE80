@@ -1,24 +1,24 @@
 <!--
   Portfolio README for HPRINCE80
-  Dark green theme optimized for GitHub profile visibility
+  Rainbow theme optimized for GitHub profile visibility
   snake.yml + metrics.yml remain untouched
 -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02130d,50:0a3b2b,100:02130d&height=220&section=header&text=Prince%20Yaduvanshi&fontSize=42&fontColor=E6FFF6&animation=fadeIn&fontAlignY=40" alt="Prince Yaduvanshi banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,16:FF7F00,33:FFFF00,50:00FF00,66:00BFFF,83:8A2BE2,100:FF1493&height=220&section=header&text=Prince%20Yaduvanshi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Rainbow header banner" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=6EE7B7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Integration+Builder;MERN+%7C+Python+%7C+Automation" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Integration+Enthusiast;Python+Automation+Builder;Always+Learning+%26+Building" alt="Typing introduction" />
 
   <br />
 
   <a href="https://hprince80.github.io/Portfolio/Prince.pdf">
-    <img src="https://img.shields.io/badge/Resume-Download-10B981?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-Download-FF1493?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
   <a href="https://hprince80.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/HPRINCE80">
-    <img src="https://komarev.com/ghpvc/?username=HPRINCE80&style=for-the-badge&color=10B981&label=PROFILE+VIEWS&labelColor=02130d" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=HPRINCE80&style=for-the-badge&color=00BFFF&label=PROFILE+VIEWS&labelColor=4B0082" alt="Profile views" />
   </a>
 </div>
 
@@ -46,29 +46,29 @@ Highlights
 <table>
   <tr>
     <td align="center" width="25%"><strong>Languages</strong><br><br>
-      <img src="https://img.shields.io/badge/C-10B981?style=flat-square&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-10B981?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-10B981?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-10B981?style=flat-square&logo=javascript&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-10B981?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-E63946?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-F97316?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-FACC15?style=flat-square&logo=python&logoColor=black" />
+      <img src="https://img.shields.io/badge/JavaScript-22C55E?style=flat-square&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-06B6D4?style=flat-square&logo=typescript&logoColor=white" />
     </td>
     <td align="center" width="25%"><strong>Frontend</strong><br><br>
-      <img src="https://img.shields.io/badge/React-10B981?style=flat-square&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-10B981?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/GSAP-10B981?style=flat-square&logo=greensock&logoColor=white" />
-      <img src="https://img.shields.io/badge/Framer_Motion-10B981?style=flat-square&logo=framer&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-14B8A6?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/GSAP-84CC16?style=flat-square&logo=greensock&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer_Motion-8B5CF6?style=flat-square&logo=framer&logoColor=white" />
     </td>
     <td align="center" width="25%"><strong>Backend</strong><br><br>
-      <img src="https://img.shields.io/badge/Node.js-10B981?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-10B981?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-10B981?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-10B981?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-22C55E?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-64748B?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-16A34A?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-2563EB?style=flat-square&logo=mysql&logoColor=white" />
     </td>
     <td align="center" width="25%"><strong>AI & Tools</strong><br><br>
-      <img src="https://img.shields.io/badge/Google_Gemini_API-10B981?style=flat-square&logo=googlegemini&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-10B981?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-10B981?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-10B981?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-0EA5E9?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F97316?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -85,12 +85,8 @@ Highlights
       <br /><br />
       <code>React 19</code> <code>Node.js</code> <code>MongoDB</code> <code>Gemini API</code> <code>Docker</code>
       <br /><br />
-      <a href="https://resumechecker-1-vsad.onrender.com/">
-        <img src="https://img.shields.io/badge/Live_Demo-10B981?style=flat-square&logo=render&logoColor=white" alt="Live Demo" />
-      </a>
-      <a href="https://github.com/HPRINCE80/Resumechecker">
-        <img src="https://img.shields.io/badge/GitHub-Repo-10B981?style=flat-square&logo=github&logoColor=white" alt="Repo" />
-      </a>
+      <a href="https://resumechecker-1-vsad.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-E63946?style=flat-square&logo=render&logoColor=white" alt="Live Demo" /></a>
+      <a href="https://github.com/HPRINCE80/Resumechecker"><img src="https://img.shields.io/badge/GitHub-Repo-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
     </td>
     <td width="50%" valign="top">
       <h4>AI Code Reviewer</h4>
@@ -98,12 +94,8 @@ Highlights
       <br /><br />
       <code>React</code> <code>Monaco Editor</code> <code>Express.js</code> <code>Gemini 2.5 Flash</code>
       <br /><br />
-      <a href="https://code-review-1-9r2r.onrender.com/">
-        <img src="https://img.shields.io/badge/Live_Demo-10B981?style=flat-square&logo=render&logoColor=white" alt="Live Demo" />
-      </a>
-      <a href="https://github.com/HPRINCE80/Code-Review">
-        <img src="https://img.shields.io/badge/GitHub-Repo-10B981?style=flat-square&logo=github&logoColor=white" alt="Repo" />
-      </a>
+      <a href="https://code-review-1-9r2r.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-F97316?style=flat-square&logo=render&logoColor=white" alt="Live Demo" /></a>
+      <a href="https://github.com/HPRINCE80/Code-Review"><img src="https://img.shields.io/badge/GitHub-Repo-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
     </td>
   </tr>
   <tr>
@@ -113,12 +105,8 @@ Highlights
       <br /><br />
       <code>React</code> <code>Node.js</code> <code>Socket.io</code> <code>Docker</code>
       <br /><br />
-      <a href="https://real-time-collaborative-nraj.onrender.com/">
-        <img src="https://img.shields.io/badge/Live_Demo-10B981?style=flat-square&logo=render&logoColor=white" alt="Live Demo" />
-      </a>
-      <a href="https://github.com/HPRINCE80/Real-time-Collaborative">
-        <img src="https://img.shields.io/badge/GitHub-Repo-10B981?style=flat-square&logo=github&logoColor=white" alt="Repo" />
-      </a>
+      <a href="https://real-time-collaborative-nraj.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=render&logoColor=white" alt="Live Demo" /></a>
+      <a href="https://github.com/HPRINCE80/Real-time-Collaborative"><img src="https://img.shields.io/badge/GitHub-Repo-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
     </td>
     <td width="50%" valign="top">
       <h4>Job Portal Application</h4>
@@ -126,9 +114,7 @@ Highlights
       <br /><br />
       <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code>
       <br /><br />
-      <a href="https://github.com/HPRINCE80">
-        <img src="https://img.shields.io/badge/GitHub-Repo-10B981?style=flat-square&logo=github&logoColor=white" alt="Repo" />
-      </a>
+      <a href="https://github.com/HPRINCE80"><img src="https://img.shields.io/badge/GitHub-Repo-FF1493?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
     </td>
   </tr>
 </table>
@@ -147,13 +133,13 @@ Highlights
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HPRINCE80&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&border_radius=10" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HPRINCE80&theme=dark&hide_border=true&background=0D1117&border_radius=10" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HPRINCE80&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HPRINCE80&theme=radical&hide_border=true&background=0D1117&border_radius=10" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HPRINCE80&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&border_radius=10" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=HPRINCE80&theme=onestar&no-frame=true&row=1&column=4" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HPRINCE80&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HPRINCE80&theme=radical&no-frame=true&row=1&column=4" height="165" />
 </div>
 
 ---
@@ -161,7 +147,7 @@ Highlights
 ### 📈 Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HPRINCE80&theme=react-dark&hide_border=true&bg_color=0D1117&color=6EE7B7&line=34D399&point=86EFAC" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HPRINCE80&theme=redical&hide_border=true&bg_color=0D1117&color=FF69B4&line=8A2BE2&point=00BFFF" width="95%" />
 
   <!--START_SECTION:snake-->
   <img src="https://raw.githubusercontent.com/HPRINCE80/HPRINCE80/output/snake.svg" alt="Contribution snake" />
@@ -173,18 +159,10 @@ Highlights
 ### 📫 Connect With Me
 
 <div align="center">
-  <a href="https://hprince80.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/prince-yaduvanshi-a99b71354/">
-    <img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:princeyaduvanshi226@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/919410836558">
-    <img src="https://img.shields.io/badge/WhatsApp-10B981?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+  <a href="https://hprince80.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/prince-yaduvanshi-a99b71354/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:princeyaduvanshi226@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://wa.me/919410836558"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:083328,50:0a4d39,100:083328&height=120&section=footer" alt="footer banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,16:8A2BE2,33:00BFFF,50:00FF7F,66:FFFF00,83:FF7F00,100:FF0000&height=120&section=footer" alt="Rainbow footer banner" />
