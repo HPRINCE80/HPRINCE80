@@ -18,16 +18,16 @@
 
 ---
 
-### 🖥️ whoami
+### 🖥️ About Me
 
 ```bash
-> Prince
+> Prince Yaduvanshi
 Full Stack Developer (MERN) | Python Automation | AI Integration
 
-> prince@dev:~$ cat education.txt
+> Education
 B.Tech Computer Science @ Dr. Abdul Kalam Technical University, Lucknow (2024–2028)
 
-> prince@dev:~$ cat status.txt
+> Acheviment:
 🎯 300+ DSA problems solved (Striver's A2Z Sheet)
 🚀 Shipped 4+ production-ready AI-integrated full-stack apps
 🌱 Currently open to Internship opportunities
