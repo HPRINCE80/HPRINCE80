@@ -1,13 +1,13 @@
 <!--
-  Portfolio README for HPRINCE80
-  Dark theme optimized for GitHub
+  README for HPRINCE80
+  Dark GitHub profile layout
   snake.yml + metrics.yml remain untouched
 -->
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=220&section=header&text=Prince%20Yaduvanshi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Prince Yaduvanshi banner" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=680&lines=Full+Stack+Developer;AI+Integration+Builder;MERN+%7C+Python+%7C+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Integration+Builder;MERN+%7C+Python+%7C+Automation" alt="Typing animation" />
 
   <br />
 
@@ -35,7 +35,7 @@ B.Tech Computer Science @ Dr. Abdul Kalam Technical University, Lucknow (2024–
 
 Highlights
 🎯 300+ DSA problems solved on Striver's A2Z Sheet
-🚀 Built 4+ AI-integrated full-stack products
+🚀 Built 4+ production-ready AI-integrated full-stack projects
 🌱 Open to internship opportunities
 ```
 
