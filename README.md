@@ -77,46 +77,54 @@ Highlights
 
 ---
 
+
+
 ### 🚀 Featured Projects
+
+A selection of full-stack and AI-powered applications I’ve built.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>AI Resume Interview App</h4>
-      Resume + JD analysis with AI-powered interview feedback, Google OAuth, JWT auth, and Docker deployment.
-      <br /><br />
-      <code>React 19</code> <code>Node.js</code> <code>MongoDB</code> <code>Gemini API</code> <code>Docker</code>
-      <br /><br />
-      <a href="https://resumechecker-1-vsad.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-E63946?style=flat-square&logo=render&logoColor=white" alt="Live Demo" /></a>
-      <a href="https://github.com/HPRINCE80/Resumechecker"><img src="https://img.shields.io/badge/GitHub-Repo-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+      <h3>🤖 AI Resume Interview App</h3>
+      <p>Analyze resumes against job descriptions and get AI-powered interview feedback, with Google OAuth and JWT authentication.</p>
+      <p><strong>Built with:</strong><br>
+        <code>React 19</code> <code>Node.js</code> <code>MongoDB</code><br>
+        <code>Gemini API</code> <code>Docker</code>
+      </p>
+      <a href="https://resumechecker-1-vsad.onrender.com/"><img src="https://img.shields.io/badge/View_Live_Demo-2EA44F?style=for-the-badge&logo=render&logoColor=white" alt="View live demo" /></a>
+      <a href="https://github.com/HPRINCE80/Resumechecker"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
     </td>
     <td width="50%" valign="top">
-      <h4>AI Code Reviewer</h4>
-      Monaco-powered IDE-like reviewer where Gemini 2.5 Flash acts as a senior reviewer for code quality and logic.
-      <br /><br />
-      <code>React</code> <code>Monaco Editor</code> <code>Express.js</code> <code>Gemini 2.5 Flash</code>
-      <br /><br />
-      <a href="https://code-review-1-9r2r.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-F97316?style=flat-square&logo=render&logoColor=white" alt="Live Demo" /></a>
-      <a href="https://github.com/HPRINCE80/Code-Review"><img src="https://img.shields.io/badge/GitHub-Repo-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+      <h3>🧠 AI Code Reviewer</h3>
+      <p>An IDE-style code review experience powered by Gemini 2.5 Flash, with a Monaco editor and AI feedback on code quality and logic.</p>
+      <p><strong>Built with:</strong><br>
+        <code>React</code> <code>Monaco Editor</code><br>
+        <code>Express.js</code> <code>Gemini 2.5 Flash</code>
+      </p>
+      <a href="https://code-review-1-9r2r.onrender.com/"><img src="https://img.shields.io/badge/View_Live_Demo-2EA44F?style=for-the-badge&logo=render&logoColor=white" alt="View live demo" /></a>
+      <a href="https://github.com/HPRINCE80/Code-Review"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Real-time Collaborative Editor</h4>
-      Multi-user live code editor with synchronized updates using Socket.io and containerized deployment.
-      <br /><br />
-      <code>React</code> <code>Node.js</code> <code>Socket.io</code> <code>Docker</code>
-      <br /><br />
-      <a href="https://real-time-collaborative-nraj.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=render&logoColor=white" alt="Live Demo" /></a>
-      <a href="https://github.com/HPRINCE80/Real-time-Collaborative"><img src="https://img.shields.io/badge/GitHub-Repo-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+      <h3>🔄 Real-time Collaborative Editor</h3>
+      <p>A multi-user code editor with synchronized, real-time updates and containerized deployment.</p>
+      <p><strong>Built with:</strong><br>
+        <code>React</code> <code>Node.js</code><br>
+        <code>Socket.io</code> <code>Docker</code>
+      </p>
+      <a href="https://real-time-collaborative-nraj.onrender.com/"><img src="https://img.shields.io/badge/View_Live_Demo-2EA44F?style=for-the-badge&logo=render&logoColor=white" alt="View live demo" /></a>
+      <a href="https://github.com/HPRINCE80/Real-time-Collaborative"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
     </td>
     <td width="50%" valign="top">
-      <h4>Job Portal Application</h4>
-      Full role-based hiring platform with voice search, JWT auth, and 15+ REST APIs for practical product workflows.
-      <br /><br />
-      <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code>
-      <br /><br />
-      <a href="https://github.com/HPRINCE80"><img src="https://img.shields.io/badge/GitHub-Repo-FF1493?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+      <h3>💼 Job Portal Application</h3>
+      <p>A role-based hiring platform featuring voice search, JWT authentication, and 15+ REST APIs for job-seeker and recruiter workflows.</p>
+      <p><strong>Built with:</strong><br>
+        <code>React</code> <code>Node.js</code> <code>Express</code><br>
+        <code>MongoDB</code> <code>JWT</code>
+      </p>
+      <a href="https://github.com/HPRINCE80"><img src="https://img.shields.io/badge/More_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="More projects on GitHub" /></a>
     </td>
   </tr>
 </table>
