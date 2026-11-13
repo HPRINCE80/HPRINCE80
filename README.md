@@ -5,9 +5,9 @@
 -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,16:FF7F00,33:FFFF00,50:00FF00,66:00BFFF,83:8A2BE2,100:FF1493&height=220&section=header&text=Prince%20Yaduvanshi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Rainbow header banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,16:FF7F00,33:FFFF00,50:00FF00,66:00BFFF,83:8A2BE2,100:FF1493&height=220&section=header&text=Prince%20Yaduvanshi" alt="Header banner" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Integration+Enthusiast;Python+Automation+Builder;Always+Learning+%26+Building" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;MERN+Stack+Builder;Problem+Solver" alt="Typing banner" />
 
   <br />
 
@@ -28,7 +28,7 @@
 
 ```text
 Prince Yaduvanshi
-Full Stack Developer (MERN) | Python Automation | AI Integration
+Full Stack Developer | AI & Automation Enthusiast | MERN Stack Builder
 
 Education
 B.Tech Computer Science @ Dr. Abdul Kalam Technical University, Lucknow (2024–2028)
@@ -36,7 +36,8 @@ B.Tech Computer Science @ Dr. Abdul Kalam Technical University, Lucknow (2024–
 Highlights
 🎯 300+ DSA problems solved on Striver's A2Z Sheet
 🚀 Built 4+ production-ready AI-integrated full-stack projects
-🌱 Open to internship opportunities
+💡 Focused on scalable product engineering, LLM workflows, and modern web apps
+🌱 Open to internships, collaborations, and real-world product challenges
 ```
 
 ---
@@ -54,6 +55,7 @@ Highlights
     </td>
     <td align="center" width="25%"><strong>Frontend</strong><br><br>
       <img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/TailwindCSS-14B8A6?style=flat-square&logo=tailwindcss&logoColor=white" />
       <img src="https://img.shields.io/badge/GSAP-84CC16?style=flat-square&logo=greensock&logoColor=white" />
       <img src="https://img.shields.io/badge/Framer_Motion-8B5CF6?style=flat-square&logo=framer&logoColor=white" />
@@ -81,7 +83,7 @@ Highlights
   <tr>
     <td width="50%" valign="top">
       <h4>AI Resume Interview App</h4>
-      Resume + JD analysis with AI-powered interview feedback. Includes Google OAuth, JWT auth, and Docker deployment.
+      Resume + JD analysis with AI-powered interview feedback, Google OAuth, JWT auth, and Docker deployment.
       <br /><br />
       <code>React 19</code> <code>Node.js</code> <code>MongoDB</code> <code>Gemini API</code> <code>Docker</code>
       <br /><br />
@@ -90,7 +92,7 @@ Highlights
     </td>
     <td width="50%" valign="top">
       <h4>AI Code Reviewer</h4>
-      Monaco-powered IDE-like reviewer with Gemini 2.5 Flash acting as a senior reviewer for code quality and logic.
+      Monaco-powered IDE-like reviewer where Gemini 2.5 Flash acts as a senior reviewer for code quality and logic.
       <br /><br />
       <code>React</code> <code>Monaco Editor</code> <code>Express.js</code> <code>Gemini 2.5 Flash</code>
       <br /><br />
@@ -101,7 +103,7 @@ Highlights
   <tr>
     <td width="50%" valign="top">
       <h4>Real-time Collaborative Editor</h4>
-      Multi-user live code editor with synchronized updates using Socket.io.
+      Multi-user live code editor with synchronized updates using Socket.io and containerized deployment.
       <br /><br />
       <code>React</code> <code>Node.js</code> <code>Socket.io</code> <code>Docker</code>
       <br /><br />
@@ -110,7 +112,7 @@ Highlights
     </td>
     <td width="50%" valign="top">
       <h4>Job Portal Application</h4>
-      Full role-based hiring platform with voice search, JWT auth, and 15+ REST APIs.
+      Full role-based hiring platform with voice search, JWT auth, and 15+ REST APIs for practical product workflows.
       <br /><br />
       <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code>
       <br /><br />
@@ -123,10 +125,10 @@ Highlights
 
 ### 🌱 Current Focus
 
-- [ ] Advanced System Design
-- [ ] Next.js App Router + Server Actions
-- [ ] LLM / RAG / AI agent integration patterns
-- [ ] Open-source contribution
+- [x] Advanced System Design
+- [x] Next.js App Router + Server Actions
+- [x] LLM / RAG / AI agent integration patterns
+- [x] Open-source contribution and real-world product building
 
 ---
 
@@ -147,7 +149,7 @@ Highlights
 ### 📈 Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HPRINCE80&theme=redical&hide_border=true&bg_color=0D1117&color=FF69B4&line=8A2BE2&point=00BFFF" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HPRINCE80&theme=radical&hide_border=true&bg_color=0D1117&color=FF69B4&line=8A2BE2&point=00BFFF" width="95%" />
 
   <!--START_SECTION:snake-->
   <img src="https://raw.githubusercontent.com/HPRINCE80/HPRINCE80/output/snake.svg" alt="Contribution snake" />
